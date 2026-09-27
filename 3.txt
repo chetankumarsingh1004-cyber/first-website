@@ -4,4 +4,3 @@ this is 3.txt file
 
 a broken guy !!!
 
-i dont know the solution
